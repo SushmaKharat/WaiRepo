@@ -46,7 +46,7 @@ namespace WaiTechExam
 
             for (int num = 0; num <= n; num++)
             {
-                Console.WriteLine("Enter number");
+                Console.WriteLine("Enter number :");
                 num = Convert.ToInt16(Console.ReadLine());
             }
 
